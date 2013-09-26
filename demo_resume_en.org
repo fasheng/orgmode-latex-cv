@@ -1,0 +1,73 @@
+#+OPTIONS: toc:nil H:10 ':t
+
+#+LaTeX_HEADER: \usepackage{fsh_orgmode_cv}
+
+#+TITLE: Personal Resume
+
+* Demo Level One
+** Level Two
+   *Content under level two*
+
+   text text text text text text text text text text text text text
+   text text text text text text text text text text text text text
+** Level Two
+   *Content under level two*
+
+   text text text text text text text text text text text text text
+   text text text text text text text text text text text text text
+
+* Personal Data
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|          <r> |                        |
+|         Age: | XX                     |
+|       Phone: | XX                     |
+|        Blog: | http://xxx.github.io   |
+|       Email: | [[mailto:xxx@gmail.com][xxx@gmail.com]]          |
+|      Github: | https://github.com/xxx |
+| Description: | XXX, XXXXXXXXXXXX      |
+
+* Work Experience
+** 2012-Current
+   *text*
+
+   text text text text text text text text text text text text text
+   text text text text text text text text text text text text text
+** 2011-2012
+   *text*
+
+   text text text text text text text text text
+* Education
+** 2006-2010
+   text text text text text text text text text
+* Computer Skills
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align lp{0.85\textwidth}
+| <l>       |                                                                              |
+| C         | text text text                                                               |
+| C++       | text text text                                                               |
+| Java      | text text text                                                               |
+| Android   | text text text                                                               |
+| Python    | text text text                                                               |
+| Network   | text text text                                                               |
+| Shell     | text text text                                                               |
+| Linux     | text text text                                                               |
+| Dev Tools | text text text                                                               |
+| Learning  | text text text, text text text text text text text text text text text text |
+
+* Languages
+** English
+   text text text text
+
+* Projects
+** Project One
+   Homepage: https://github.com/project_one
+
+   description, text text text text text text text text text
+
+** Project Two
+   Homepage: https://github.com/project_two
+
+   description, text text text text text text text text text text text
+   text text text text text text text text text text text text text
+   text

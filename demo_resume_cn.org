@@ -1,0 +1,78 @@
+#+OPTIONS: toc:nil H:10 ':t
+
+#+LaTeX_HEADER: \usepackage{fsh_orgmode_cv}
+#+LaTeX_HEADER: \usepackage{xltxtra,fontspec,xunicode,xeCJK}
+# #+LaTeX_HEADER: \setCJKmainfont{WenQuanYi Zen Hei}
+#+LaTeX_HEADER: \setCJKmainfont{AR PL New Kai}
+
+
+#+TITLE: 个人简历
+
+* 示例 一级标题
+** 二级标题
+   *二级正文*
+   
+   正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+   正文正文正文正文正文正文正文正文正文
+** 二级标题
+   *二级正文*
+   
+   正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+   正文正文正文正文正文正文正文正文正文
+   
+* 个人信息
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|       <r> |                        |
+|     年龄: | XX                     |
+|     电话: | XX                     |
+|     Blog: | http://xxx.github.io   |
+|    Email: | [[mailto:xxx@gmail.com][xxx@gmail.com]]          |
+|   Github: | https://github.com/xxx |
+| 个人简介: | XXX, XXXXXXXXXXXX      |
+| 兴趣爱好: | XXX, XXXXXXXXXXXX      |
+
+* 工作经历
+** 2012-目前
+   *正文*
+
+   正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+   正文正文正文正文正文正文正文正文正文
+** 2011-2012
+   *正文*
+
+   正文正文正文正文正文正文正文正文正文
+* 教育经历
+** 2006-2010
+   正文正文正文正文正文正文正文正文正文
+* 计算机技能
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align lp{0.85\textwidth}
+| <l>      |                                                                    |
+| C        | 正文正文正文                                                   |
+| C++      | 正文正文正文                                                   |
+| Java     | 正文正文正文                                                   |
+| Android  | 正文正文正文                                                   |
+| Python   | 正文正文正文                                                   |
+| Network  | 正文正文正文                                                   |
+| Shell    | 正文正文正文                                                   |
+| Linux    | 正文正文正文                                                   |
+| 开发工具 | 正文正文正文                                                   |
+| 准备学习 | 正文正文正文，正文正文正文正文正文正文正文正文正文正文正文正文 |
+
+* 语言技能
+** 英语水平
+   正文正文正文正文
+
+* 个人项目
+** 项目一
+   主页: https://github.com/project_one
+
+   项目描述，正文正文正文正文正文正文正文正文正文
+
+** 项目二
+   主页: https://github.com/project_two
+
+   项目描述，正文正文正文正文正文正文正文正文正文正文正文正文正文正文正
+   文正文正文正文正文正文正文正文正文正文正文正文
+
