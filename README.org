@@ -1,9 +1,9 @@
-*Description*
-A simple LaTeX resume template for org-mode.
+- Description
+  A simple LaTeX resume template for org-mode.
 
-*License:*
-CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+- License
+  CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-*Reference:*
-https://github.com/punchagan/resume
-http://www.latextemplates.com/template/plasmati-graduate-cv
+- Reference
+  + https://github.com/punchagan/resume
+  + http://www.latextemplates.com/template/plasmati-graduate-cv
