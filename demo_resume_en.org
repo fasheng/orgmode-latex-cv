@@ -1,6 +1,6 @@
 #+OPTIONS: toc:nil H:10 ':t
 
-#+LaTeX_HEADER: \usepackage{fsh_orgmode_cv}
+#+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 
 #+TITLE: Personal Resume
 
