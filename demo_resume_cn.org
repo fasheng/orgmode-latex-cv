@@ -23,7 +23,6 @@
 * 个人信息
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|       <r> |                        |
 |     年龄: | XX                     |
 |     电话: | XX                     |
 |     Blog: | http://xxx.github.io   |
