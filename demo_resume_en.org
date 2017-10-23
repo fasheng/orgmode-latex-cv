@@ -19,7 +19,6 @@
 * Personal Data
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|          <r> |                        |
 |         Age: | XX                     |
 |       Phone: | XX                     |
 |        Blog: | http://xxx.github.io   |
